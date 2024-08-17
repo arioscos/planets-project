@@ -1,0 +1,11 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "Kepler Planets Project in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ari J. Garcia Oscos",
+  "license": "ISC"
+}
